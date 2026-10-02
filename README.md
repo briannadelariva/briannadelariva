@@ -8,7 +8,7 @@
 
 💡 **Artificial Intelligence | Data Science | Natural Language Processing**  
 
-Welcome to my GitHub! I’m currently pursuing my **Ph.D in Artificial Intelligence** and hold a ** M.S. in AI ** and **B.S. in Computer Science**. My interests span **NLP, deep learning, AI in healthcare, and applied data science**, but I also bring experience in **IT support and problem-solving** from my professional background.  
+Welcome to my GitHub! I’m currently pursuing my **Ph.D in Artificial Intelligence** and hold a M.S. in AI and **B.S. in Computer Science**. My interests span **NLP, deep learning, AI in healthcare, and applied data science**, but I also bring experience in **IT support and problem-solving** from my professional background.  
 
 ---
 
